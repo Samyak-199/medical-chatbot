@@ -1,6 +1,6 @@
 # 🏥 Medical Chatbot — RAG-Powered AI Assistant
 
-A fully functional medical chatbot built with **Retrieval-Augmented Generation (RAG)**. Ask it anything about symptoms, conditions, or treatments — it retrieves relevant information from the Gale Encyclopedia of Medicine and generates accurate, grounded answers using Llama 3.
+A fully functional medical chatbot built with **Retrieval-Augmented Generation (RAG)** . Ask it anything about symptoms, conditions, or treatments — it retrieves relevant information from the Gale Encyclopedia of Medicine and generates accurate, grounded answers using Llama 3.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-green)
