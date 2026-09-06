@@ -133,9 +133,3 @@ http://localhost:8080
 
 This chatbot is for **educational purposes only**. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
 
----
-
-## 🙏 Credits
-
-- Original project concept by [DSwithBappy](https://www.youtube.com/@DSwithBappy)
-- Modified to use open-source/free stack (Groq + HuggingFace) instead of OpenAI
